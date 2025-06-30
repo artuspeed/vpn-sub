@@ -1,8 +1,8 @@
-hysteria2://pENYztLh7g@70.34.197.154:34600?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#@ArtuSpeed
-hysteria2://pENYztLh7g@70.34.197.154:22649?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#@ArtuSpeedECH
-hysteria2://pENYztLh7g@70.34.197.154:13141?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#@ArtuSpeedECHPQS
-hysteria2://pENYztLh7g@70.34.197.154:36968?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#ArtuSpeedNew
-hysteria2://pENYztLh7g@70.34.197.154:35381?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#ArtuSpeedNew2
-hysteria2://pENYztLh7g@70.34.197.154:43727?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#ArtuSpeedCopy
-hysteria2://pENYztLh7g@70.34.197.154:47809?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#ArtuSpeedECHCopy
-hysteria2://pENYztLh7g@70.34.197.154:43623?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#ArtuSpeedECHPQSCopy
+hysteria2://pENYztLh7g@109.120.184.106:34600?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#@ArtuSpeed
+hysteria2://pENYztLh7g@109.120.184.106:22649?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#@ArtuSpeedECH
+hysteria2://pENYztLh7g@109.120.184.106:13141?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#@ArtuSpeedECHPQS
+hysteria2://pENYztLh7g@109.120.184.106:36968?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#ArtuSpeedNew
+hysteria2://pENYztLh7g@109.120.184.106:35381?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#ArtuSpeedNew2
+hysteria2://pENYztLh7g@109.120.184.106:43727?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#ArtuSpeedCopy
+hysteria2://pENYztLh7g@109.120.184.106:47809?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#ArtuSpeedECHCopy
+hysteria2://pENYztLh7g@109.120.184.106:43623?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#ArtuSpeedECHPQSCopy
