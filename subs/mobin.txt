@@ -2,3 +2,4 @@ hysteria2://pENYztLh7g@51.159.138.225:34600?fastopen=0&insecure=1&obfs=salamande
 hysteria2://pENYztLh7g@51.159.138.225:22649?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#@ArtuSpeedECH
 hysteria2://pENYztLh7g@51.159.138.225:13141?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#@ArtuSpeedECHPQS
 hysteria2://pENYztLh7g@51.159.138.225:36968?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#ArtuSpeedNew
+hysteria2://pENYztLh7g@51.159.138.225:35381?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#ArtuSpeedNew2
