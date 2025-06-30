@@ -1,2 +1,4 @@
-hysteria2://pENYztLh7g@51.159.138.225:34600?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#@ArtuSpeed
-hysteria2://pENYztLh7g@51.159.138.225:22649?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#@ArtuSpeedECH
+hysteria2://pENYztLh7g@137.220.41.239:34600?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#@ArtuSpeed
+hysteria2://pENYztLh7g@137.220.41.239:22649?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#@ArtuSpeedECH
+hysteria2://pENYztLh7g@137.220.41.239:13141?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#@ArtuSpeedECHPQS
+hysteria2://pENYztLh7g@137.220.41.239:36968?fastopen=0&insecure=1&obfs=salamander&obfs-password=IN%23tHe%40NaMe%23of%40GOD#ArtuSpeedNew
